@@ -1,14 +1,7 @@
-# Simple Flask API
-
-This project presents a simple REST API with Python and Flask to retrieve book data from a Sqlite3 database.
+# Dockerizando uma simples REST API
+Estudo de docker, rodando uma API via dockerfile
 
 ### How to use
-
-1. Clone this project
-2. run ```pip install pipenv```
-3. run ```pipenv install```
-4. run ```python api.py```
-
 ### API request examples:
 To access the data, just open the browser and access the API as the examples below.
 
